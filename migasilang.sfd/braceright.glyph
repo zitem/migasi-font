@@ -1,0 +1,24 @@
+StartChar: braceright
+Encoding: 132 125 132
+Width: 8
+VWidth: 6
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 25
+ 1 4 l 25
+ 3 4 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 5 2 l 25
+ 5 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 1 6 l 25
+EndSplineSet
+Validated: 5
+EndChar

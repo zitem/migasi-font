@@ -1,0 +1,24 @@
+StartChar: migasi.ge
+Encoding: 41 57385 41
+Width: 8
+VWidth: 0
+Flags: W
+HStem: -16 20G<1 5> 0 2<3 5>
+VStem: 1 2<2 4>
+LayerCount: 2
+Fore
+SplineSet
+3 6 m 29x60
+ 3 2 l 25
+ 5 2 l 25
+ 5 0 l 25
+ 1 0 l 25x60
+ 1 4 l 25
+ 5 4 l 25xa0
+ 5 2 l 25
+ 7 2 l 25
+ 7 6 l 25
+ 3 6 l 29x60
+EndSplineSet
+Validated: 5
+EndChar

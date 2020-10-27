@@ -1,0 +1,66 @@
+SplineFontDB: 3.2
+FontName: migasiS
+FullName: migasiS
+FamilyName: migasiS
+Weight: Regular
+Copyright: Copyright (c) 2020, migasi
+UComments: "2020-10-26: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+StrokeWidth: 1
+ItalicAngle: 0
+UnderlinePosition: -2
+UnderlineWidth: 1
+Ascent: 8
+Descent: 0
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+HasVMetrics: 1
+XUID: [1021 193 -910328336 18159]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1603646934
+ModificationTime: 1603751045
+PfmFamily: 49
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 1 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'mgsi'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+DesignSize: 120 20-1280 99 1033 "Regular"
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 52 19
+BeginPrivate: 1
+BlueValues 5 [0 8]
+EndPrivate
+Grid
+3.3359375 1.8232421875 m 1053
+EndSplineSet
+TeXData: 1 12582912 0 524288 173015 115343 1048576 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

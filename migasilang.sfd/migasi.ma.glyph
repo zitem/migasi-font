@@ -1,0 +1,34 @@
+StartChar: migasi.ma
+Encoding: 5 57349 5
+Width: 8
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+HStem: 0 2<1 25> 4 2<1 23>
+VStem: 1 6
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 0
+ 7 6 l 0
+ 7 4 l 0
+ 3 4 l 0
+ 3 2 l 0
+ 7 2 l 0
+ 7 0 l 0
+ 1 0 l 0
+ 1 6 l 0
+  Spiro
+    7 6 [
+    7 4 [
+    3 4 [
+    3 2 [
+    7 2 [
+    7 0 [
+    1 0 [
+    1 6 [
+    0 0 z
+  EndSpiro
+EndSplineSet
+Validated: 1
+EndChar

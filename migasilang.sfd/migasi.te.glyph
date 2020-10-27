@@ -1,0 +1,22 @@
+StartChar: migasi.te
+Encoding: 26 57370 26
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 0 21G<3 5> 4 2<1 3>
+VStem: 3 2<0 2>
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29x60
+ 7 6 l 25x60
+ 7 2 l 25
+ 5 2 l 25
+ 5 0 l 25
+ 3 0 l 25xa0
+ 3 4 l 25
+ 1 4 l 25
+ 1 6 l 29x60
+EndSplineSet
+Validated: 1
+EndChar

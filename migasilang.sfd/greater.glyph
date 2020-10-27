@@ -1,0 +1,28 @@
+StartChar: greater
+Encoding: 125 62 125
+Width: 8
+VWidth: 6
+Flags: W
+HStem: 0 2<1 3> 2 2<5 7> 4 2<1 3>
+VStem: 1 2<0 2 4 6>
+LayerCount: 2
+Fore
+SplineSet
+1 2 m 1x90
+ 3 2 l 1
+ 3 0 l 1
+ 1 0 l 1
+ 1 2 l 1x90
+1 6 m 1x30
+ 3 6 l 1
+ 3 4 l 1
+ 1 4 l 1
+ 1 6 l 1x30
+5 4 m 5x50
+ 7 4 l 5
+ 7 2 l 5
+ 5 2 l 5
+ 5 4 l 5x50
+EndSplineSet
+Validated: 1
+EndChar

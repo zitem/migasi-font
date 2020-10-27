@@ -1,0 +1,22 @@
+StartChar: migasi.so
+Encoding: 59 57403 59
+Width: 8
+VWidth: 0
+Flags: W
+HStem: -16 20G<3 5>
+LayerCount: 2
+Fore
+SplineSet
+13 10 m 1053
+1 6 m 25
+ 1 0 l 25
+ 3 0 l 25
+ 3 4 l 25
+ 5 4 l 25
+ 5 0 l 25
+ 7 0 l 25
+ 7 6 l 25
+ 1 6 l 25
+EndSplineSet
+Validated: 9
+EndChar

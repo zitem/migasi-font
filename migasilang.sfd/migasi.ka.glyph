@@ -1,0 +1,24 @@
+StartChar: migasi.ka
+Encoding: 35 57379 35
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 0 2<3 7> 4 2<3 7>
+VStem: 1 2<2 4>
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29
+ 7 6 l 25
+ 7 4 l 25
+ 3 4 l 25
+ 3 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 1 2 l 25
+ 1 6 l 29
+EndSplineSet
+Validated: 5
+EndChar

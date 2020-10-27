@@ -1,0 +1,27 @@
+StartChar: migasi.ce
+Encoding: 81 57425 81
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 2 21G<5 7> 4 2<3 5>
+VStem: 5 2<2 4>
+LayerCount: 2
+Fore
+SplineSet
+3 4 m 29x60
+ 1 4 l 25x60
+ 1 2 l 25
+ 3 2 l 25
+ 3 0 l 25
+ 5 0 l 25
+ 5 2 l 25
+ 3 2 l 25xa0
+ 3 6 l 25
+ 7 6 l 25x60
+ 7 2 l 25
+ 5 2 l 25xa0
+ 5 4 l 25
+ 3 4 l 29x60
+EndSplineSet
+Validated: 5
+EndChar

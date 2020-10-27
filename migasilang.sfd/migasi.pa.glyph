@@ -1,0 +1,27 @@
+StartChar: migasi.pa
+Encoding: 15 57359 15
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 0 2<5 7> 4 2<5 7>
+VStem: 1 2<0 2> 5 2<0 2>
+LayerCount: 2
+Fore
+SplineSet
+7 2 m 25
+ 7 0 l 25
+ 5 0 l 25
+ 5 2 l 25
+ 7 2 l 25
+5 4 m 25
+ 5 2 l 25
+ 3 2 l 25
+ 3 0 l 25
+ 1 0 l 25
+ 1 6 l 29
+ 7 6 l 25
+ 7 4 l 25
+ 5 4 l 25
+EndSplineSet
+Validated: 5
+EndChar

@@ -1,0 +1,21 @@
+StartChar: migasi.ve
+Encoding: 51 57395 51
+Width: 8
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+3 6 m 29
+ 3 4 l 25
+ 1 4 l 25
+ 1 0 l 25
+ 5 0 l 25
+ 5 2 l 25
+ 7 2 l 25
+ 7 4 l 25
+ 7 6 l 25
+ 3 6 l 29
+EndSplineSet
+Validated: 9
+EndChar

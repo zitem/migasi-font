@@ -1,0 +1,23 @@
+StartChar: migasi.colon
+Encoding: 129 58 129
+Width: 8
+VWidth: 6
+Flags: W
+HStem: 0 2<1 3> 4 2<1 3>
+VStem: 1 2<0 2 4 6>
+LayerCount: 2
+Fore
+SplineSet
+1 2 m 25
+ 3 2 l 25
+ 3 0 l 25
+ 1 0 l 25
+ 1 2 l 25
+3 4 m 25
+ 1 4 l 25
+ 1 6 l 25
+ 3 6 l 25
+ 3 4 l 25
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,24 @@
+StartChar: migasi.ta
+Encoding: 25 57369 25
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 0 2<5 7> 4 2<1 3 5 7>
+VStem: 3 2<2 4>
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29
+ 7 6 l 25
+ 7 4 l 25
+ 5 4 l 25
+ 5 2 l 25
+ 7 2 l 25
+ 7 0 l 25
+ 3 0 l 25
+ 3 4 l 25
+ 1 4 l 25
+ 1 6 l 29
+EndSplineSet
+Validated: 1
+EndChar
