@@ -2,7 +2,7 @@
 
 It is an unnamed font for migasi's unnamed constructed language.
 
-It includes U+E000 - U+E06D and some symbols.
+It includes U+FFE00 - U+FFE6D and some symbols.
 
 ![Preview]
 

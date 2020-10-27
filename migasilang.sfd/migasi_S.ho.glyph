@@ -1,0 +1,22 @@
+StartChar: migasiS.ho
+Encoding: 117 1048143 117
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 0 2<1 5> 4 2<1 5>
+VStem: 5 2<2 4>
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29
+ 7 6 l 25
+ 7 0 l 25
+ 1 0 l 25
+ 1 2 l 25
+ 5 2 l 25
+ 5 4 l 25
+ 1 4 l 25
+ 1 6 l 29
+EndSplineSet
+Validated: 1
+EndChar

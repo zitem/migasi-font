@@ -1,0 +1,25 @@
+StartChar: migasiS.me
+Encoding: 44 1048070 44
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 0 2<3 5> 2 21G<5 7> 4 2<3 5>
+VStem: 1 2<2 4> 5 2<2 4>
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 1049x38
+5 0 m 29xb8
+ 1 0 l 25
+ 1 6 l 25
+ 7 6 l 25xb8
+ 7 2 l 25x58
+ 5 2 l 25
+ 5 4 l 25
+ 3 4 l 25
+ 3 2 l 25
+ 5 2 l 25
+ 5 0 l 29xb8
+EndSplineSet
+Validated: 5
+EndChar

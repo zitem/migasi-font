@@ -1,0 +1,27 @@
+StartChar: migasiS.cu
+Encoding: 121 1048147 121
+Width: 8
+VWidth: 0
+Flags: W
+HStem: 2 21G<3 5>
+LayerCount: 2
+Fore
+SplineSet
+3 6 m 29
+ 3 4 l 25
+ 1 4 l 25
+ 1 2 l 25
+ 3 2 l 25
+ 3 0 l 25
+ 7 0 l 25
+ 7 4 l 25
+ 5 4 l 25
+ 5 2 l 25
+ 3 2 l 25
+ 3 4 l 25
+ 5 4 l 25
+ 5 6 l 25
+ 3 6 l 29
+EndSplineSet
+Validated: 5
+EndChar

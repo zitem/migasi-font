@@ -1,0 +1,23 @@
+StartChar: migasiS.lu
+Encoding: 141 1048167 141
+Width: 8
+VWidth: 0
+Flags: W
+HStem: -18 20G<3 5>
+LayerCount: 2
+Fore
+SplineSet
+1 6 m 29
+ 1 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+ 5 2 l 25
+ 5 0 l 25
+ 7 0 l 25
+ 7 4 l 25
+ 3 4 l 25
+ 3 6 l 25
+ 1 6 l 29
+EndSplineSet
+Validated: 9
+EndChar

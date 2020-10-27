@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1603646934
-ModificationTime: 1603751045
+ModificationTime: 1603801435
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -49,7 +49,7 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 DesignSize: 120 20-1280 99 1033 "Regular"
-Encoding: Custom
+Encoding: Original
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
